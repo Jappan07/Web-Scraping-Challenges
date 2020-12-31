@@ -47,8 +47,6 @@ For this technique, we use web browsers. You usually do not have the built-in op
 * [Rest APIs, JSON]()
 * Much more...
 
-
-
 ## Prerequisites
 
 Get started by downloading
